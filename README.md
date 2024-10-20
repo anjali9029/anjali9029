@@ -37,8 +37,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anjali9029/count.svg?"  />
-</div>
 
 ###
